@@ -51,6 +51,12 @@ Une fois les conteneurs démarrés, vous pouvez accéder aux services aux adress
 | **Frontend** | `http://localhost:80` | Interface utilisateur Angular |
 | **Backend API** | `http://localhost:8085` | API Spring Boot |
 | **Base de données** | `localhost:5432` | PostgreSQL (User: `postgres`, Pass: `root`, DB: `smart-house`) |
+## Capture d'ecran
+<img width="1883" height="891" alt="image" src="https://github.com/user-attachments/assets/6276547a-6ebb-4e29-bb07-432c8c6bc6f9" />
+<img width="1703" height="866" alt="image" src="https://github.com/user-attachments/assets/26a755eb-a6cc-4ea2-8716-a69067f367a1" />
+<img width="1820" height="876" alt="image" src="https://github.com/user-attachments/assets/03eb5f8e-9fc3-4480-8040-31a066da728e" />
+
+
 
 ## 📂 Structure du Projet
 
